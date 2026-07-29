@@ -2,11 +2,11 @@
 A machine learning project that predicts liver cirrhosis stages using patient clinical data. The project includes data preprocessing, feature engineering, and a comparison of Decision Tree, Gradient Boosting, and K-Nearest Neighbors classifiers to identify the most accurate prediction model
 
 
-# 🩺 Liver Cirrhosis Stage Classification
+#  Liver Cirrhosis Stage Classification
 
 A Machine Learning project that predicts the stage of liver cirrhosis using patient clinical information. The project compares multiple classification algorithms and identifies the most accurate model for predicting disease stages.
 
-## 📌 Project Overview
+##  Project Overview
 
 Liver cirrhosis is a chronic liver disease that progresses through multiple stages. Early prediction of the disease stage can assist healthcare professionals in making timely clinical decisions.
 
@@ -16,7 +16,7 @@ The project was developed as part of the **CSE422 – Artificial Intelligence** 
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ├── Group_06_Sec_03_CSE422_Lab_project.ipynb   # Complete implementation
@@ -26,7 +26,7 @@ The project was developed as part of the **CSE422 – Artificial Intelligence** 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Dataset:** Liver Cirrhosis Stage Classification
 - **Source:** Kaggle
@@ -37,7 +37,7 @@ The project was developed as part of the **CSE422 – Artificial Intelligence** 
 
 ---
 
-## ⚙️ Data Preprocessing
+##  Data Preprocessing
 
 The preprocessing pipeline includes:
 
@@ -52,7 +52,7 @@ Categorical features were transformed into numerical representations before mode
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 Three classification algorithms were trained and evaluated:
 
@@ -62,7 +62,7 @@ Three classification algorithms were trained and evaluated:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 | Model | Accuracy |
 |--------|----------|
@@ -74,7 +74,7 @@ Gradient Boosting achieved the highest overall classification accuracy. :content
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -85,7 +85,7 @@ Gradient Boosting achieved the highest overall classification accuracy. :content
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -115,7 +115,7 @@ jupyter notebook
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The models were evaluated using:
 
@@ -127,19 +127,19 @@ The models were evaluated using:
 
 ---
 
-## 📖 Project Report
+##  Project Report
 
 A detailed report describing the dataset, preprocessing, feature engineering, model training, evaluation, and comparison is available in **ML_Project.pdf**.
 
 ---
 
-## 👥 Authors
+##  Authors
 
 - **Moutasim Fuad Ifti**
 - **Mohd Tashwaruddin Safin** :contentReference[oaicite:5]{index=5}
 
 ---
 
-## 📜 License
+##  License
 
 This repository is intended for educational and academic purposes.
